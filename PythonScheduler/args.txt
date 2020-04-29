@@ -1,0 +1,1 @@
+@"C:\ProgramData\Anaconda3\envs\Desktop\python.exe", "30", @"C:\Users\jaqbs\Desktop\PythonSeleniumScraperSmsSender\ScraperPolska"

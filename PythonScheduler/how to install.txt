@@ -1,0 +1,6 @@
+Developer Command Prompt for VS2017                                   //as admin
+CD C:\_Repos\PythonScheduler\bin\Debug
+InstallUtil.exe /U PythonScheduler.exe
+InstallUtil.exe PythonScheduler.exe
+Login:".\jaqbs" Pass: "@jS*****"
+InstallUtil.exe /u C:\_Repos\PythonSkraperLauncher\bin\Debug\PythonSkraperLauncher.exe

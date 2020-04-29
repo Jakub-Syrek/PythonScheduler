@@ -1,0 +1,142 @@
+Service started on 4/23/2020 7:33:24 AM
+Nested methods launched at 4/23/2020 8:33:24 AM
+path to Python :C:\ProgramData\Anaconda3\envs\Desktop\python.exe
+path to Python script1:C:\Users\jaqbs\Desktop\PythonSeleniumScraperSmsSender\ScraperPolska.py
+path to Python script2:C:\Users\jaqbs\Desktop\Python_GetTimesOfTransportations\GetDirections.py
+Inner Python Script=>C:\Users\jaqbs\Desktop\PythonSeleniumScraperSmsSender\ScraperPolska.py C:\ProgramData\Anaconda3\envs\Desktop\python.exe
+Inner Python Script executed successfully.
+ScriptC:\Users\jaqbs\Desktop\PythonSeleniumScraperSmsSender\ScraperPolska.py executed at 4/23/2020 8:33:46 AM
+Inner Python Script=>C:\Users\jaqbs\Desktop\Python_GetTimesOfTransportations\GetDirections.py C:\ProgramData\Anaconda3\envs\Desktop\python.exe
+Inner Python Script executed successfully.
+ScriptC:\Users\jaqbs\Desktop\Python_GetTimesOfTransportations\GetDirections.py executed at 4/23/2020 8:33:50 AM
+Nested methods launched at 4/23/2020 9:33:24 AM
+path to Python :C:\ProgramData\Anaconda3\envs\Desktop\python.exe
+path to Python script1:C:\Users\jaqbs\Desktop\PythonSeleniumScraperSmsSender\ScraperPolska.py
+path to Python script2:C:\Users\jaqbs\Desktop\Python_GetTimesOfTransportations\GetDirections.py
+Inner Python Script=>C:\Users\jaqbs\Desktop\PythonSeleniumScraperSmsSender\ScraperPolska.py C:\ProgramData\Anaconda3\envs\Desktop\python.exe
+Inner Python Script executed successfully.
+ScriptC:\Users\jaqbs\Desktop\PythonSeleniumScraperSmsSender\ScraperPolska.py executed at 4/23/2020 9:33:47 AM
+Inner Python Script=>C:\Users\jaqbs\Desktop\Python_GetTimesOfTransportations\GetDirections.py C:\ProgramData\Anaconda3\envs\Desktop\python.exe
+Inner Python Script executed successfully.
+ScriptC:\Users\jaqbs\Desktop\Python_GetTimesOfTransportations\GetDirections.py executed at 4/23/2020 9:33:50 AM
+Service started on 4/23/2020 10:01:03 AM
+Nested methods launched at 4/23/2020 11:14:13 AM
+path to Python :C:\ProgramData\Anaconda3\envs\Desktop\python.exe
+path to Python script1:C:\Users\jaqbs\Desktop\PythonSeleniumScraperSmsSender\ScraperPolska.py
+path to Python script2:C:\Users\jaqbs\Desktop\Python_GetTimesOfTransportations\GetDirections.py
+Inner Python Script=>C:\Users\jaqbs\Desktop\PythonSeleniumScraperSmsSender\ScraperPolska.py C:\ProgramData\Anaconda3\envs\Desktop\python.exe
+Inner Python Script executed successfully.
+ScriptC:\Users\jaqbs\Desktop\PythonSeleniumScraperSmsSender\ScraperPolska.py executed at 4/23/2020 11:15:20 AM
+Inner Python Script=>C:\Users\jaqbs\Desktop\Python_GetTimesOfTransportations\GetDirections.py C:\ProgramData\Anaconda3\envs\Desktop\python.exe
+Inner Python Script executed successfully.
+ScriptC:\Users\jaqbs\Desktop\Python_GetTimesOfTransportations\GetDirections.py executed at 4/23/2020 11:15:23 AM
+Nested methods launched at 4/23/2020 12:14:13 PM
+path to Python :C:\ProgramData\Anaconda3\envs\Desktop\python.exe
+path to Python script1:C:\Users\jaqbs\Desktop\PythonSeleniumScraperSmsSender\ScraperPolska.py
+path to Python script2:C:\Users\jaqbs\Desktop\Python_GetTimesOfTransportations\GetDirections.py
+Inner Python Script=>C:\Users\jaqbs\Desktop\PythonSeleniumScraperSmsSender\ScraperPolska.py C:\ProgramData\Anaconda3\envs\Desktop\python.exe
+Inner Python Script executed successfully.
+ScriptC:\Users\jaqbs\Desktop\PythonSeleniumScraperSmsSender\ScraperPolska.py executed at 4/23/2020 12:14:31 PM
+Inner Python Script=>C:\Users\jaqbs\Desktop\Python_GetTimesOfTransportations\GetDirections.py C:\ProgramData\Anaconda3\envs\Desktop\python.exe
+Inner Python Script executed successfully.
+ScriptC:\Users\jaqbs\Desktop\Python_GetTimesOfTransportations\GetDirections.py executed at 4/23/2020 12:14:45 PM
+Nested methods launched at 4/23/2020 1:14:13 PM
+path to Python :C:\ProgramData\Anaconda3\envs\Desktop\python.exe
+path to Python script1:C:\Users\jaqbs\Desktop\PythonSeleniumScraperSmsSender\ScraperPolska.py
+path to Python script2:C:\Users\jaqbs\Desktop\Python_GetTimesOfTransportations\GetDirections.py
+Inner Python Script=>C:\Users\jaqbs\Desktop\PythonSeleniumScraperSmsSender\ScraperPolska.py C:\ProgramData\Anaconda3\envs\Desktop\python.exe
+Inner Python Script executed successfully.
+ScriptC:\Users\jaqbs\Desktop\PythonSeleniumScraperSmsSender\ScraperPolska.py executed at 4/23/2020 1:14:38 PM
+Inner Python Script=>C:\Users\jaqbs\Desktop\Python_GetTimesOfTransportations\GetDirections.py C:\ProgramData\Anaconda3\envs\Desktop\python.exe
+Inner Python Script executed successfully.
+ScriptC:\Users\jaqbs\Desktop\Python_GetTimesOfTransportations\GetDirections.py executed at 4/23/2020 1:14:53 PM
+Nested methods launched at 4/23/2020 2:14:13 PM
+path to Python :C:\ProgramData\Anaconda3\envs\Desktop\python.exe
+path to Python script1:C:\Users\jaqbs\Desktop\PythonSeleniumScraperSmsSender\ScraperPolska.py
+path to Python script2:C:\Users\jaqbs\Desktop\Python_GetTimesOfTransportations\GetDirections.py
+Inner Python Script=>C:\Users\jaqbs\Desktop\PythonSeleniumScraperSmsSender\ScraperPolska.py C:\ProgramData\Anaconda3\envs\Desktop\python.exe
+Inner Python Script executed successfully.
+ScriptC:\Users\jaqbs\Desktop\PythonSeleniumScraperSmsSender\ScraperPolska.py executed at 4/23/2020 2:14:28 PM
+Inner Python Script=>C:\Users\jaqbs\Desktop\Python_GetTimesOfTransportations\GetDirections.py C:\ProgramData\Anaconda3\envs\Desktop\python.exe
+Inner Python Script executed successfully.
+ScriptC:\Users\jaqbs\Desktop\Python_GetTimesOfTransportations\GetDirections.py executed at 4/23/2020 2:14:32 PM
+Nested methods launched at 4/23/2020 3:14:13 PM
+path to Python :C:\ProgramData\Anaconda3\envs\Desktop\python.exe
+path to Python script1:C:\Users\jaqbs\Desktop\PythonSeleniumScraperSmsSender\ScraperPolska.py
+path to Python script2:C:\Users\jaqbs\Desktop\Python_GetTimesOfTransportations\GetDirections.py
+Inner Python Script=>C:\Users\jaqbs\Desktop\PythonSeleniumScraperSmsSender\ScraperPolska.py C:\ProgramData\Anaconda3\envs\Desktop\python.exe
+Inner Python Script executed successfully.
+ScriptC:\Users\jaqbs\Desktop\PythonSeleniumScraperSmsSender\ScraperPolska.py executed at 4/23/2020 3:15:41 PM
+Inner Python Script=>C:\Users\jaqbs\Desktop\Python_GetTimesOfTransportations\GetDirections.py C:\ProgramData\Anaconda3\envs\Desktop\python.exe
+Inner Python Script executed successfully.
+ScriptC:\Users\jaqbs\Desktop\Python_GetTimesOfTransportations\GetDirections.py executed at 4/23/2020 3:15:44 PM
+Nested methods launched at 4/23/2020 4:14:11 PM
+path to Python :C:\ProgramData\Anaconda3\envs\Desktop\python.exe
+path to Python script1:C:\Users\jaqbs\Desktop\PythonSeleniumScraperSmsSender\ScraperPolska.py
+path to Python script2:C:\Users\jaqbs\Desktop\Python_GetTimesOfTransportations\GetDirections.py
+Inner Python Script=>C:\Users\jaqbs\Desktop\PythonSeleniumScraperSmsSender\ScraperPolska.py C:\ProgramData\Anaconda3\envs\Desktop\python.exe
+Inner Python Script executed successfully.
+ScriptC:\Users\jaqbs\Desktop\PythonSeleniumScraperSmsSender\ScraperPolska.py executed at 4/23/2020 4:14:35 PM
+Inner Python Script=>C:\Users\jaqbs\Desktop\Python_GetTimesOfTransportations\GetDirections.py C:\ProgramData\Anaconda3\envs\Desktop\python.exe
+Inner Python Script executed successfully.
+ScriptC:\Users\jaqbs\Desktop\Python_GetTimesOfTransportations\GetDirections.py executed at 4/23/2020 4:14:38 PM
+Nested methods launched at 4/23/2020 5:14:11 PM
+path to Python :C:\ProgramData\Anaconda3\envs\Desktop\python.exe
+path to Python script1:C:\Users\jaqbs\Desktop\PythonSeleniumScraperSmsSender\ScraperPolska.py
+path to Python script2:C:\Users\jaqbs\Desktop\Python_GetTimesOfTransportations\GetDirections.py
+Inner Python Script=>C:\Users\jaqbs\Desktop\PythonSeleniumScraperSmsSender\ScraperPolska.py C:\ProgramData\Anaconda3\envs\Desktop\python.exe
+Inner Python Script executed successfully.
+ScriptC:\Users\jaqbs\Desktop\PythonSeleniumScraperSmsSender\ScraperPolska.py executed at 4/23/2020 5:14:38 PM
+Inner Python Script=>C:\Users\jaqbs\Desktop\Python_GetTimesOfTransportations\GetDirections.py C:\ProgramData\Anaconda3\envs\Desktop\python.exe
+Inner Python Script executed successfully.
+ScriptC:\Users\jaqbs\Desktop\Python_GetTimesOfTransportations\GetDirections.py executed at 4/23/2020 5:14:41 PM
+Nested methods launched at 4/23/2020 7:53:52 PM
+path to Python :C:\ProgramData\Anaconda3\envs\Desktop\python.exe
+path to Python script1:C:\Users\jaqbs\Desktop\PythonSeleniumScraperSmsSender\ScraperPolska.py
+path to Python script2:C:\Users\jaqbs\Desktop\Python_GetTimesOfTransportations\GetDirections.py
+Inner Python Script=>C:\Users\jaqbs\Desktop\PythonSeleniumScraperSmsSender\ScraperPolska.py C:\ProgramData\Anaconda3\envs\Desktop\python.exe
+Inner Python Script executed successfully.
+ScriptC:\Users\jaqbs\Desktop\PythonSeleniumScraperSmsSender\ScraperPolska.py executed at 4/23/2020 7:54:23 PM
+Inner Python Script=>C:\Users\jaqbs\Desktop\Python_GetTimesOfTransportations\GetDirections.py C:\ProgramData\Anaconda3\envs\Desktop\python.exe
+Inner Python Script executed successfully.
+ScriptC:\Users\jaqbs\Desktop\Python_GetTimesOfTransportations\GetDirections.py executed at 4/23/2020 7:54:37 PM
+Nested methods launched at 4/23/2020 8:53:52 PM
+path to Python :C:\ProgramData\Anaconda3\envs\Desktop\python.exe
+path to Python script1:C:\Users\jaqbs\Desktop\PythonSeleniumScraperSmsSender\ScraperPolska.py
+path to Python script2:C:\Users\jaqbs\Desktop\Python_GetTimesOfTransportations\GetDirections.py
+Inner Python Script=>C:\Users\jaqbs\Desktop\PythonSeleniumScraperSmsSender\ScraperPolska.py C:\ProgramData\Anaconda3\envs\Desktop\python.exe
+Inner Python Script executed successfully.
+ScriptC:\Users\jaqbs\Desktop\PythonSeleniumScraperSmsSender\ScraperPolska.py executed at 4/23/2020 8:54:22 PM
+Inner Python Script=>C:\Users\jaqbs\Desktop\Python_GetTimesOfTransportations\GetDirections.py C:\ProgramData\Anaconda3\envs\Desktop\python.exe
+Inner Python Script executed successfully.
+ScriptC:\Users\jaqbs\Desktop\Python_GetTimesOfTransportations\GetDirections.py executed at 4/23/2020 8:54:25 PM
+Nested methods launched at 4/23/2020 9:53:52 PM
+path to Python :C:\ProgramData\Anaconda3\envs\Desktop\python.exe
+path to Python script1:C:\Users\jaqbs\Desktop\PythonSeleniumScraperSmsSender\ScraperPolska.py
+path to Python script2:C:\Users\jaqbs\Desktop\Python_GetTimesOfTransportations\GetDirections.py
+Inner Python Script=>C:\Users\jaqbs\Desktop\PythonSeleniumScraperSmsSender\ScraperPolska.py C:\ProgramData\Anaconda3\envs\Desktop\python.exe
+Inner Python Script executed successfully.
+ScriptC:\Users\jaqbs\Desktop\PythonSeleniumScraperSmsSender\ScraperPolska.py executed at 4/23/2020 9:54:22 PM
+Inner Python Script=>C:\Users\jaqbs\Desktop\Python_GetTimesOfTransportations\GetDirections.py C:\ProgramData\Anaconda3\envs\Desktop\python.exe
+Inner Python Script executed successfully.
+ScriptC:\Users\jaqbs\Desktop\Python_GetTimesOfTransportations\GetDirections.py executed at 4/23/2020 9:54:25 PM
+Nested methods launched at 4/23/2020 10:53:52 PM
+path to Python :C:\ProgramData\Anaconda3\envs\Desktop\python.exe
+path to Python script1:C:\Users\jaqbs\Desktop\PythonSeleniumScraperSmsSender\ScraperPolska.py
+path to Python script2:C:\Users\jaqbs\Desktop\Python_GetTimesOfTransportations\GetDirections.py
+Inner Python Script=>C:\Users\jaqbs\Desktop\PythonSeleniumScraperSmsSender\ScraperPolska.py C:\ProgramData\Anaconda3\envs\Desktop\python.exe
+Inner Python Script executed successfully.
+ScriptC:\Users\jaqbs\Desktop\PythonSeleniumScraperSmsSender\ScraperPolska.py executed at 4/23/2020 10:54:12 PM
+Inner Python Script=>C:\Users\jaqbs\Desktop\Python_GetTimesOfTransportations\GetDirections.py C:\ProgramData\Anaconda3\envs\Desktop\python.exe
+Inner Python Script executed successfully.
+ScriptC:\Users\jaqbs\Desktop\Python_GetTimesOfTransportations\GetDirections.py executed at 4/23/2020 10:54:26 PM
+Nested methods launched at 4/23/2020 11:53:52 PM
+path to Python :C:\ProgramData\Anaconda3\envs\Desktop\python.exe
+path to Python script1:C:\Users\jaqbs\Desktop\PythonSeleniumScraperSmsSender\ScraperPolska.py
+path to Python script2:C:\Users\jaqbs\Desktop\Python_GetTimesOfTransportations\GetDirections.py
+Inner Python Script=>C:\Users\jaqbs\Desktop\PythonSeleniumScraperSmsSender\ScraperPolska.py C:\ProgramData\Anaconda3\envs\Desktop\python.exe
+Inner Python Script executed successfully.
+ScriptC:\Users\jaqbs\Desktop\PythonSeleniumScraperSmsSender\ScraperPolska.py executed at 4/23/2020 11:54:21 PM
+Inner Python Script=>C:\Users\jaqbs\Desktop\Python_GetTimesOfTransportations\GetDirections.py C:\ProgramData\Anaconda3\envs\Desktop\python.exe
+Inner Python Script executed successfully.
+ScriptC:\Users\jaqbs\Desktop\Python_GetTimesOfTransportations\GetDirections.py executed at 4/23/2020 11:54:35 PM

@@ -1,0 +1,7 @@
+C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe.config
+C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.pdb
+C:\_Repos\PythonScheduler\obj\Debug\PythonScheduler.ProjectInstaller.resources
+C:\_Repos\PythonScheduler\obj\Debug\PythonScheduler.csproj.GenerateResource.cache
+C:\_Repos\PythonScheduler\obj\Debug\PythonScheduler.exe
+C:\_Repos\PythonScheduler\obj\Debug\PythonScheduler.pdb

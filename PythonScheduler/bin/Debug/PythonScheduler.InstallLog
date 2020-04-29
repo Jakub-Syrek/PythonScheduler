@@ -1,0 +1,755 @@
+﻿Installing assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Uninstalling assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Removing EventLog source ScriptLauncher.
+Warning: The source ScriptLauncher is not registered on the local machine.
+Service ScriptLauncher is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Installing service ScriptLauncher...
+Service ScriptLauncher has been successfully installed.
+Creating EventLog source ScriptLauncher in log Application...
+Committing assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Uninstalling assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Removing EventLog source ScriptLauncher.
+Service ScriptLauncher is being removed from the system...
+Service ScriptLauncher was successfully removed from the system.
+Installing assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Installing service ScriptLauncher...
+Creating EventLog source ScriptLauncher in log Application...
+Rolling back assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Restoring event log to previous state for source ScriptLauncher.
+Uninstalling assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Removing EventLog source ScriptLauncher.
+Warning: The source ScriptLauncher is not registered on the local machine.
+Service ScriptLauncher is being removed from the system...
+Service ScriptLauncher was successfully removed from the system.
+Installing assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Installing service ScriptLauncher...
+Service ScriptLauncher has been successfully installed.
+Creating EventLog source ScriptLauncher in log Application...
+Committing assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Installing assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Rolling back assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Installing assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Installing service ScriptLauncher...
+Creating EventLog source ScriptLauncher in log Application...
+Rolling back assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Restoring event log to previous state for source ScriptLauncher.
+Installing assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Installing service ScriptLauncher...
+Creating EventLog source ScriptLauncher in log Application...
+Rolling back assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Restoring event log to previous state for source ScriptLauncher.
+Installing assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Installing service ScriptLauncher...
+Creating EventLog source ScriptLauncher in log Application...
+Rolling back assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Restoring event log to previous state for source ScriptLauncher.
+Uninstalling assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Removing EventLog source ScriptLauncher.
+Service ScriptLauncher is being removed from the system...
+Service ScriptLauncher was successfully removed from the system.
+Installing assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Installing service ScriptLauncher...
+Service ScriptLauncher has been successfully installed.
+Creating EventLog source ScriptLauncher in log Application...
+Committing assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Uninstalling assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Removing EventLog source ScriptLauncher.
+Service ScriptLauncher is being removed from the system...
+Service ScriptLauncher was successfully removed from the system.
+Installing assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Installing service ScriptLauncher...
+Service ScriptLauncher has been successfully installed.
+Creating EventLog source ScriptLauncher in log Application...
+Committing assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Uninstalling assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Removing EventLog source ScriptLauncher.
+Service ScriptLauncher is being removed from the system...
+Service ScriptLauncher was successfully removed from the system.
+Installing assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Installing service ScriptLauncher...
+Service ScriptLauncher has been successfully installed.
+Creating EventLog source ScriptLauncher in log Application...
+Committing assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Uninstalling assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Removing EventLog source ScriptLauncher.
+Service ScriptLauncher is being removed from the system...
+Service ScriptLauncher was successfully removed from the system.
+Installing assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Installing service ScriptLauncher...
+Service ScriptLauncher has been successfully installed.
+Creating EventLog source ScriptLauncher in log Application...
+Committing assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Uninstalling assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Removing EventLog source ScriptLauncher.
+Service ScriptLauncher is being removed from the system...
+Service ScriptLauncher was successfully removed from the system.
+Installing assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Installing service ScriptLauncher...
+Service ScriptLauncher has been successfully installed.
+Creating EventLog source ScriptLauncher in log Application...
+Committing assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Uninstalling assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Removing EventLog source ScriptLauncher.
+Service ScriptLauncher is being removed from the system...
+Service ScriptLauncher was successfully removed from the system.
+Installing assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Installing service ScriptLauncher...
+Service ScriptLauncher has been successfully installed.
+Creating EventLog source ScriptLauncher in log Application...
+Committing assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Uninstalling assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Removing EventLog source ScriptLauncher.
+Service ScriptLauncher is being removed from the system...
+Service ScriptLauncher was successfully removed from the system.
+Installing assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Installing service ScriptLauncher...
+Service ScriptLauncher has been successfully installed.
+Creating EventLog source ScriptLauncher in log Application...
+Committing assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Uninstalling assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Removing EventLog source ScriptLauncher.
+Service ScriptLauncher is being removed from the system...
+Service ScriptLauncher was successfully removed from the system.
+Installing assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Installing service ScriptLauncher...
+Service ScriptLauncher has been successfully installed.
+Creating EventLog source ScriptLauncher in log Application...
+Committing assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Uninstalling assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Removing EventLog source ScriptLauncher.
+Service ScriptLauncher is being removed from the system...
+Service ScriptLauncher was successfully removed from the system.
+Installing assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Installing service ScriptLauncher...
+Service ScriptLauncher has been successfully installed.
+Creating EventLog source ScriptLauncher in log Application...
+Committing assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Uninstalling assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Removing EventLog source ScriptLauncher.
+Service ScriptLauncher is being removed from the system...
+Service ScriptLauncher was successfully removed from the system.
+Installing assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Installing service ScriptLauncher...
+Service ScriptLauncher has been successfully installed.
+Creating EventLog source ScriptLauncher in log Application...
+Committing assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Uninstalling assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Removing EventLog source ScriptLauncher.
+Service ScriptLauncher is being removed from the system...
+Service ScriptLauncher was successfully removed from the system.
+Installing assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Installing service ScriptLauncher...
+Service ScriptLauncher has been successfully installed.
+Creating EventLog source ScriptLauncher in log Application...
+Committing assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Installing assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Installing service ScriptLauncher...
+Creating EventLog source ScriptLauncher in log Application...
+Rolling back assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Restoring event log to previous state for source ScriptLauncher.
+Installing assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Installing service ScriptLauncher...
+Creating EventLog source ScriptLauncher in log Application...
+Rolling back assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Restoring event log to previous state for source ScriptLauncher.
+Installing assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Installing service ScriptLauncher...
+Creating EventLog source ScriptLauncher in log Application...
+Rolling back assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Restoring event log to previous state for source ScriptLauncher.
+Installing assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Installing service ScriptLauncher...
+Creating EventLog source ScriptLauncher in log Application...
+Rolling back assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Restoring event log to previous state for source ScriptLauncher.
+Installing assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Rolling back assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Installing assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Installing service ScriptLauncher...
+Creating EventLog source ScriptLauncher in log Application...
+Rolling back assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Restoring event log to previous state for source ScriptLauncher.
+Uninstalling assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Removing EventLog source ScriptLauncher.
+Service ScriptLauncher is being removed from the system...
+Service ScriptLauncher was successfully removed from the system.
+Installing assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Installing service ScriptLauncher...
+Service ScriptLauncher has been successfully installed.
+Creating EventLog source ScriptLauncher in log Application...
+Committing assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Uninstalling assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Removing EventLog source ScriptLauncher.
+Service ScriptLauncher is being removed from the system...
+Service ScriptLauncher was successfully removed from the system.
+Installing assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Installing service ScriptLauncher...
+Creating EventLog source ScriptLauncher in log Application...
+Rolling back assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Restoring event log to previous state for source ScriptLauncher.
+Installing assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Rolling back assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Uninstalling assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Removing EventLog source ScriptLauncher.
+Warning: The source ScriptLauncher is not registered on the local machine.
+Service ScriptLauncher is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Installing service ScriptLauncher...
+Service ScriptLauncher has been successfully installed.
+Creating EventLog source ScriptLauncher in log Application...
+Committing assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Uninstalling assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Removing EventLog source ScriptLauncher.
+Service ScriptLauncher is being removed from the system...
+Service ScriptLauncher was successfully removed from the system.
+Installing assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Installing service ScriptLauncher...
+Service ScriptLauncher has been successfully installed.
+Creating EventLog source ScriptLauncher in log Application...
+Committing assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Uninstalling assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Removing EventLog source ScriptLauncher.
+Service ScriptLauncher is being removed from the system...
+Service ScriptLauncher was successfully removed from the system.
+Installing assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Installing service ScriptLauncher...
+Creating EventLog source ScriptLauncher in log Application...
+Rolling back assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Restoring event log to previous state for source ScriptLauncher.
+Installing assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Installing service ScriptLauncher...
+Creating EventLog source ScriptLauncher in log Application...
+Rolling back assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Restoring event log to previous state for source ScriptLauncher.
+Installing assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Installing service ScriptLauncher...
+Creating EventLog source ScriptLauncher in log Application...
+Rolling back assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Restoring event log to previous state for source ScriptLauncher.
+Installing assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Installing service ScriptLauncher...
+Creating EventLog source ScriptLauncher in log Application...
+Rolling back assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Restoring event log to previous state for source ScriptLauncher.
+Installing assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Installing service ScriptLauncher...
+Service ScriptLauncher has been successfully installed.
+Creating EventLog source ScriptLauncher in log Application...
+Committing assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Uninstalling assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Removing EventLog source ScriptLauncher.
+Service ScriptLauncher is being removed from the system...
+Service ScriptLauncher was successfully removed from the system.
+Uninstalling assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Removing EventLog source ScriptLauncher.
+Warning: The source ScriptLauncher is not registered on the local machine.
+Service ScriptLauncher is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Rolling back assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Installing assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Rolling back assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Installing assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Installing service ScriptLauncher...
+Service ScriptLauncher has been successfully installed.
+Creating EventLog source ScriptLauncher in log Application...
+Committing assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Uninstalling assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Removing EventLog source ScriptLauncher.
+Service ScriptLauncher is being removed from the system...
+Service ScriptLauncher was successfully removed from the system.
+Installing assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Installing service ScriptLauncher...
+Service ScriptLauncher has been successfully installed.
+Creating EventLog source ScriptLauncher in log Application...
+Committing assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Uninstalling assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Removing EventLog source ScriptLauncher.
+Service ScriptLauncher is being removed from the system...
+Service ScriptLauncher was successfully removed from the system.
+Attempt to stop service ScriptLauncher.
+Installing assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Installing service ScriptLauncher...
+Service ScriptLauncher has been successfully installed.
+Creating EventLog source ScriptLauncher in log Application...
+Committing assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Uninstalling assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Removing EventLog source ScriptLauncher.
+Service ScriptLauncher is being removed from the system...
+Service ScriptLauncher was successfully removed from the system.
+Installing assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Installing service ScriptLauncher...
+Service ScriptLauncher has been successfully installed.
+Creating EventLog source ScriptLauncher in log Application...
+Committing assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Installing assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Installing service ScriptLauncher...
+Creating EventLog source ScriptLauncher in log Application...
+Rolling back assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Restoring event log to previous state for source ScriptLauncher.
+Uninstalling assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Removing EventLog source ScriptLauncher.
+Service ScriptLauncher is being removed from the system...
+Service ScriptLauncher was successfully removed from the system.
+Installing assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
+Installing service ScriptLauncher...
+Service ScriptLauncher has been successfully installed.
+Creating EventLog source ScriptLauncher in log Application...
+Committing assembly 'C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.InstallLog
+   assemblypath = C:\_Repos\PythonScheduler\bin\Debug\PythonScheduler.exe
